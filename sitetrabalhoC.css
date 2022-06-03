@@ -1,0 +1,29 @@
+.container{
+	background-color: gray;
+	opacity: 0.6;
+	border:3px;
+	margin: 0 auto;
+	margin: auto;
+	width: 1000px;
+	height: 100%;
+	display:flex;
+	justify-content: space-between;
+	padding: 30px;
+	flex-direction: column;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+h1{
+	font-weight: bold;
+	color: black;
+	background-color: darkgreen;
+	border-radius: 35px;
+}
+
+h2{
+	font-weight: bold;
+	color: black;
+	background-color: white;
+	border-radius: 30px;
+}

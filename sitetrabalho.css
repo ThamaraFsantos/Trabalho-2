@@ -1,0 +1,44 @@
+body{
+	background-image: url(16.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0px;
+}
+
+img{
+	background-size: cover;
+}
+
+header{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	background-color: gray;
+	width: 100%;
+}
+
+.logo{
+	width: 100%;
+	height: 50px;
+}
+
+li{
+	display: inline-block;
+	margin: 20px;
+}
+
+ul{
+	list-style: none;
+	display: flex;
+	align-items: center;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	font-family: arial black;
+	margin: 90px;
+
+}
